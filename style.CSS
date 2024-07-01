@@ -1,0 +1,36 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: fixed;
+    
+}
+
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9e0nNmjGX_LEeX_QWdFCB7PvGP1CUXdX3tg&s);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+   
+}
+/* H2{
+    padding-left: 100PX;
+    padding-top: 150PX;
+    font-style: normal;
+    color: rgb(179, 13, 234);
+    font-size: x-large;
+} */
+ #ee{
+    font-size: large;
+    border-radius: 25px;
+    margin-left: 90px;
+    box-sizing: border-box;
+    border: 3px solid darkgrey;
+ }
+ #ew{
+    font-size: larger;
+ }
+div{
+    margin-left: 30%;
+}
